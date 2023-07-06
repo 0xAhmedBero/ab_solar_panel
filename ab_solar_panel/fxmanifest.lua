@@ -12,23 +12,3 @@ client_script 'client.lua'
 server_script 'server.lua'
 
 shared_script '@ox_lib/init.lua'
-
-
---[[
-
--- Define the files that should be included in the resource
-files {
-    'html/index.html',
-    'html/script.js',
-    'html/style.css',
-}
-
--- Add any dependencies that your resource requires
-dependencies {
-    'essentialmode',
-    'mysql-async'
-}
-
--- Specify the NUI page to load
-ui_page 'html/index.html'
-]]
