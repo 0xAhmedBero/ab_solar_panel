@@ -37,6 +37,11 @@ put ```ensure ab_solar_panel``` in server.cfg
  4>
  start server
 
+# Perview
+https://youtu.be/7f74nharImg
+
+ 
+
 # License
  it's free
  
