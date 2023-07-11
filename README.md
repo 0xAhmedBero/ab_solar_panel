@@ -28,6 +28,14 @@ ox_inventory\data\items
 			event = 'spawnObject'
 		},
 	},
+	['battery'] = {
+		label = 'Battery',
+		weight = 5,
+		stack = true,
+		close = true,
+		description = nil,
+	},
+
 ```
 
 2>
